@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://akanhasore-ship-it.github.io/sitemap.xml
